@@ -1,0 +1,170 @@
+{
+  "main": {
+    "name":"Alexis Manduke",
+    "occupation":"Web Developer & Designer",
+    "description":"",
+    "image":"profilepic.jpg",
+    "bio":"My creative spark started with a pencil to paper. I have an educational and professional background in art and design. Now I use my creativity to decorate the web with code!",
+    "contactmessage":"Think we could work well together? Let's get in touch",
+    "email": "alexismanduke@gmail.com",
+    "address":{
+      "city":"Harrisburg",
+      "state":"Pennsylvania",
+      "zip": "17110"
+    },
+    "website": "https://amanduke.github.io/alexismanduke/",
+    "resumedownload":"https://amanduke.github.io/alexismanduke/",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/alexismanduke/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/amanduke",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"These are the skills I've been working on!",
+    "education":[
+      {
+        "school":"Kutztown University",
+        "degree":"Bachelors Of Fine Arts",
+        "graduated":"May 2017",
+        "description":"Majored in Communications Design with a focus in Advertising and Illustration"
+      },
+      {
+        "school":"University of Pennsylvania's Coding Bootcamp",
+        "degree":"Full Stack Web Development",
+        "graduated":"In progress",
+        "description":"Studied web development languages: HTML5, CSS3, JavaScript, jQuery, Express.js, React.js, Node.js, progressive web apps, agile methodology, computer science, database theory, MongoDB, MySQL, Git, and more."
+      }
+    ],
+    "work":[
+      {
+        "company":"AAA Southern Pennsylvania",
+        "title":"Marketing Specialist/Webmaster ",
+        "years":"October 2020 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Marco Promotional Products",
+        "title":"Graphic Artist",
+        "years":"September 2018 - July 2020",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"IGI Global",
+        "title":"Marketing Graphic Designer",
+        "years":"July 2017 - August 2018",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Yoga On Chocolate",
+        "title":"Freelance Graphic Designer",
+        "years":"August 2017 - December 2017",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Crayola",
+        "title":"Creative Intern",
+        "years":"November 2016 - December 2016",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Sunpointe Townhomes",
+        "title":"Leasing Consultant",
+        "years":"September 2014 - November 2015",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"SEO",
+        "level":"70%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"90%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"90%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"40%"
+      },
+      {
+        "name":"Photoshop",
+        "level":"80%"
+      }
+
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Alexis Teaches Yoga",
+        "category":"My Yoga website and Blog yoga teaching adventures",
+        "image":"alexisteachesyoga.jpg",
+        "url":"https://www.alexisteachesyoga.com"
+      },
+      {
+        "title":"JavaScript Quiz",
+        "category":"Think you can pass this quiz?",
+        "image":"javascriptquiz.jpg",
+        "url":"https://amanduke.github.io/javascriptquiz/"
+      },
+      {
+        "title":"Run Buddy",
+        "category":"Website I built for an exercise app and their trainers.",
+        "image":"run-buddy.jpg",
+        "url":"https://amanduke.github.io/runbuddyworks/"
+      },
+      {
+        "title":"Horiseon",
+        "category":"Refactored seo website",
+        "image":"horiseon.jpg",
+        "url":"https://amanduke.github.io/coderefactor.io/"
+      },
+      {
+        "title":"PlayerBeyond",
+        "category":"Landing page design for a University project.",
+        "image":"playerbeyond.png",
+        "url":"https://amanduke.github.io/playerbeyond/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Alexis is very patient and kind. She will get the job done and make sure it's what you want!",
+        "user":"Anna S."
+      },
+      {
+        "text":"I really enjoyed working with Alexis for my new logo. She did a great job.",
+        "user":"James R."
+      }
+    ]
+  }
+}

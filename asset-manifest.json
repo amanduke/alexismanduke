@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/amanduke/alexismanduke/static/css/main.bab0b925.chunk.css",
+    "main.js": "/amanduke/alexismanduke/static/js/main.424f1e2f.chunk.js",
+    "main.js.map": "/amanduke/alexismanduke/static/js/main.424f1e2f.chunk.js.map",
+    "runtime-main.js": "/amanduke/alexismanduke/static/js/runtime-main.8ecea268.js",
+    "runtime-main.js.map": "/amanduke/alexismanduke/static/js/runtime-main.8ecea268.js.map",
+    "static/js/2.104c92f2.chunk.js": "/amanduke/alexismanduke/static/js/2.104c92f2.chunk.js",
+    "static/js/2.104c92f2.chunk.js.map": "/amanduke/alexismanduke/static/js/2.104c92f2.chunk.js.map",
+    "index.html": "/amanduke/alexismanduke/index.html",
+    "static/css/main.bab0b925.chunk.css.map": "/amanduke/alexismanduke/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.104c92f2.chunk.js.LICENSE.txt": "/amanduke/alexismanduke/static/js/2.104c92f2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ecea268.js",
+    "static/js/2.104c92f2.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.424f1e2f.chunk.js"
+  ]
+}
